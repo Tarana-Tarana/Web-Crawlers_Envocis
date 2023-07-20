@@ -7,4 +7,4 @@ It involves the usage of libraries like: Selenium (for automating web browser), 
 
 BookAccomodation is the main package consisting of modules like: Book.py (contains Methods to scrape data and print result), ConstantsData.py (contains Constants used in modules), Interface.py (for Form).
 # TechStacks Used
-Python, Selenium,Numpy,CSS, Re and Tkinter
+Python, Selenium, Numpy, Re and Tkinter
