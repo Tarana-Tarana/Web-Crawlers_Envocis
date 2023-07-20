@@ -7,4 +7,12 @@ It involves the usage of libraries like: Selenium (for automating web browser), 
 
 BookAccomodation is the main package consisting of modules like: Book.py (contains Methods to scrape data and print result), ConstantsData.py (contains Constants used in modules), Interface.py (for Form).
 # TechStacks Used
-Python, Selenium, Numpy, Re and Tkinter
+Python, Selenium and Numpy.
+# Requirements
+Works with Chrome Browser. Ensure the following:
+
+(i) A directory c:\SeleniumDrivers
+
+(ii) Selenium Driver for Chrome vased on your Chrome driver version 
+
+(iii) PATH environment variable set for C:\SeleniumDrivers on your Windows PC.
